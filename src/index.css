@@ -1,0 +1,4 @@
+@import "tailwindcss";
+html {
+    scroll-behavior: smooth; /* Enables smooth scrolling when navigating to anchor links */
+}
