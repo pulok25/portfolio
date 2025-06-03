@@ -6,25 +6,25 @@ function Testimonials() {
   const testimonials = [
     {
       id: 1,
-      name: 'Jane Doe',
+      name: 'Abhishek Bansal',
       title: 'CEO, Tech Solutions',
-      quote: 'Benjamin is an incredibly talented graphic designer. His work transformed our brand identity, and he was a pleasure to work with from start to finish. Highly recommend!',
+      quote: 'Akib is an incredibly talented Web developer . His work transformed our brand identity, and he was a pleasure to work with from start to finish. Highly recommend!',
       rating: 5, // Out of 5 stars
       avatar: 'https://placehold.co/80x80/e0e0e0/000000?text=JD', // Placeholder for avatar
     },
     {
       id: 2,
-      name: 'John Smith',
+      name: 'Patrick Lovence',
       title: 'Marketing Manager, Global Corp',
-      quote: 'We hired Benjamin for our website redesign, and the results exceeded our expectations. His attention to detail and creative vision are truly remarkable. A true professional!',
+      quote: 'We hired Akib for our website redesign, and the results exceeded our expectations. His attention to detail and creative vision are truly remarkable. A true professional!',
       rating: 5,
       avatar: 'https://placehold.co/80x80/d0d0d0/000000?text=JS',
     },
     {
       id: 3,
-      name: 'Emily White',
+      name: 'Nick Watson',
       title: 'Founder, Startup Hub',
-      quote: 'As a photographer, Benjamin captured the essence of our event perfectly. The photos were stunning and delivered promptly. We will definitely work with him again.',
+      quote: 'As a Content Writer , Pulok captured the essence of our event perfectly. The blogs were stunning and full-SEO optimized. We will definitely work with him again.',
       rating: 4,
       avatar: 'https://placehold.co/80x80/c0c0c0/000000?text=EW',
     },
